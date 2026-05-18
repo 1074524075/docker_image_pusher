@@ -1,1 +1,2 @@
 pgvector/pgvector:pg17
+node:20-bookworm-slim
